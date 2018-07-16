@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="best_places_text">Best places in</string>
+    <string name="city_name_text">Cluj Napoca</string>
+    <string name="city_banner_description">A panoramic picture of Cluj Napoca</string>
+    <string name="city_description">Cluj Napoca, as capital of historical region Transylvania,
+        is one of the most visited cities in Romania. The city, with 324,576 people, is very
+        pleasant, and it is certainly a great experience for those who want to see urban
+        Transylvanian life at its best. Along with fine dining, excellent cultural activities,
+        a wonderful historical legacy and a great atmosphere, the city will certainly not
+        disappoint those who add it to their travel itinerary.</string>
+    <string name="app_description">Use this app to find out what the best places in Cluj Napoca are.
+        You will find information about the best restaurants, museums, parks, shopping centers and
+        historical places. </string>
+    <string name="choose_text">Choose where you want to go.</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_shopping">Shopping centers</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_history">Historical places</string>
+    <string name="location_description">A photo of the current location that the tourist can visit.</string>
+    <string name="museum_etnographic">The Ethnographic Museum of Transylvania</string>
+    <string name="museum_etnographic_address">Strada Memorandumului no. 21, Cluj-Napoca 400114, Romania</string>
+    <string name="museum_etnographic_description">Beautifully laid out museum of Romanian folk
+        culture which includes wooden agricultural and home tools from across Transylvania.</string>
+    <string name="museum_pharmaceutical">The Pharmacy History Collection</string>
+    <string name="museum_pharmaceutical_description">A small, but exceedingly interesting museum in
+        the centre of the city. It has the original pharmacy furniture and equipment including the
+        original laboratory in the cellar.</string>
+    <string name="museum_pharmaceutical_address">Piata Unirii 28, Cluj-Napoca 400113, Romania</string>
+    <string name="museum_art">The National Art Museum</string>
+    <string name="museum_art_descripton">A museum housed in an important eighteenth-century Baroque
+        building, the Cluj-Napoca Bánffy Palace. It possesses a very valuable collection of Romanian
+        and European art: paintings, graphics and decorative art ranging from the Fifteenth Century
+        to the Twentieth.</string>
+    <string name="museum_art_address">Piata Unirii 30, Cluj-Napoca 400098, Romania</string>
+    <string name="museum_zoology">The Zoological Museum</string>
+    <string name="museum_zoology_description">The Zoological Museum consists of several scientific
+        animal collections, currently containing over 300,000 exhibition pieces.</string>
+    <string name="museum_zoology_address">Strada Clinicilor 5–7, Cluj-Napoca 400006, Romania</string>
+    <string name="museum_history">The National Museum of Transylvanian History</string>
+    <string name="museum_history_description">A history and archaeology museum in the city of
+        Cluj-Napoca, Romania. It features a permanent exhibition, as well as temporary
+        exhibitions.</string>
+    <string name="museum_history_address">Strada Constantin Daicoviciu 2, Cluj-Napoca, Romania</string>
+    <string name="shopping_vivo">VIVO Cluj Napoca</string>
+    <string name="shopping_vivo_description">VIVO! Cluj-Napoca is the largest Romanian multifunctional
+        complex built on a single level. It combines a full range of products and services in a
+        modern urban setting.</string>
+    <string name="shopping_vivo_address">Str. Avram Iancu, No 492–500, Cluj-Napoca 407280, Romania</string>
+    <string name="shopping_iulius">Iulius Mall Cluj Napoca</string>
+    <string name="shopping_iulius_description">Iulius Mall is a multi-level shopping mall with both multinational
+        brands and local stores. It has a extensive food court with fast food from several
+        cuisines.</string>
+    <string name="shopping_iulius_address">Strada Vaida Voevod Alexandru no. 53 B, Cluj-Napoca
+        400436, Romania</string>
+    <string name="shopping_central">Central Cluj Napoca</string>
+    <string name="shopping_central_descripton">Located in the center of the city, “the place in the
+        heart of Cluj” has become the main reference while shopping in Cluj. It is addressing to the
+        entire family, currently having 90 different stores</string>
+    <string name="shopping_central_address">Strada Regele Ferdinand 22, Cluj-Napoca 400110, Romania</string>
+    <string name="shopping_platinia">Platinia Shopping Center</string>
+    <string name="shopping_platinia_description">A central, chic shopping gallery with luxurious
+        finishes and a perfect mix of services.</string>
+    <string name="shopping_platinia_address">Calea Manastur 2–6, Calea Mănăștur, Cluj-Napoca,
+        Romania</string>
+    <string name="park_central">Central Park</string>
+    <string name="park_central_description">Central Park is a large, public urban park in central
+        Cluj Napoca. It has a beautiful lake with ducks and swans and it is just a couple of minutes
+        walk from the main stadium and concert hall.</string>
+    <string name="park_central_address">Strada Cardinal Hossu Iuliu, Cluj-Napoca 400029, Romania</string>
+    <string name="park_botanical_garden">The Botanical Garden</string>
+    <string name="park_botanical_garden_description">Cluj’s Botanical Garden is where the hustle and
+        noise of the city remain outside the wall of vegetation. </string>
+    <string name="park_botanical_garden_address">Strada Republicii 42, Cluj-Napoca 400015, Romania</string>
+    <string name="park_fortress">The Fortress</string>
+    <string name="park_fortress_description">The Fortress offers a nice view on the city. On sunny
+        days, it can be a great spot for a picnic or stroll.</string>
+    <string name="park_fortress_address">Strada Gruia, Cluj-Napoca 400171, Romania</string>
+    <string name="park_ethnographic">The National Ethnographic park</string>
+    <string name="park_ethnographic_description">Fascinating outdoor museum. It has gathered
+        together a variety of old buildings from around Transylvania and re-installed them in a
+        park like setting.</string>
+    <string name="park_ethnographic_address">Strada Taietura Turcului, Cluj-Napoca 400285, Romania</string>
+    <string name="restaurant_bigbelly">Big Belly</string>
+    <string name="restaurant_bigbelly_description">Big Belly is a restaurant that meets all tastes
+        with quality food suitable for everyone and in any context. You can order to eat at home or
+        office chosing from pizza to salads, from shaorma with grilled crispy chicken on plate or
+        pita, chicken legs and wings, kebab and prosciutto sandwiches and many other dishes</string>
+    <string name="restaurant_bigbelly_address">Calea Mănăștur 68, Cluj-Napoca 400000, Romania</string>
+    <string name="restaurant_eltoro">El Toro</string>
+    <string name="restaurant_eltoro_description">Argentinian restaurant El Toro Steakhouse is the
+        first authentic steakhouse in Cluj-Napoca. The central piece is the Argentinean steak in the
+        usual cuts, grilled on a wood and charcoal barbeque, visibly placed in the middle of the
+        restaurant. </string>
+    <string name="restaurant_eltoro_address">9 Piata Timotei Cipariu, Cluj-Napoca 400191, Romania</string>
+    <string name="restaurant_hanuldacilor">Hanul Dacilor</string>
+    <string name="restaurant_hanuldacilor_description">Hanul Dacilor Restaurant is known for its
+        delicious traditional Romanian food. Traditional atmosphere, nicely decorated with wood
+        furniture, wool, stone and old peasant tools.</string>
+    <string name="restaurant_hanuldacilor_address">Str. Brâncusi Constantin 86A, Cluj-Napoca, 400458,
+        Romania</string>
+    <string name="restaurant_indigo">Indigo</string>
+    <string name="restaurant_indigo_description">Indigo is an Indian restaurant located in the heart
+        of Transylvania. Indian cuisine is as much about hot and spicy food as are its aromatic
+        dishes which are completely non-spicy.</string>
+    <string name="restaurant_indigo_address">Strada Piezișă 10, Cluj-Napoca 400371, Romania</string>
+    <string name="restaurant_livada">Livada</string>
+    <string name="restaurant_livada_description">The purpose of this restaurant is to create, produce
+        and serve super great, full-flavored food that has a beginning, middle, and finish to every
+        bite accompanied by live music.</string>
+    <string name="restaurant_livada_address">Strada Clinicilor 14, Cluj-Napoca 400006, Romania</string>
+    <string name="restaurant_tokyo">Tokyo</string>
+    <string name="restaurant_tokyo_description">The best Japanese restaurant in Romania! It stands
+        for tradition, quality and respect for every client.</string>
+    <string name="restaurant_tokyo_address">Strada Gheorghe Marinescu 5, Cluj-Napoca 400000, Romania</string>
+    <string name="historical_banffy">Banffy Palace</string>
+    <string name="historical_banffy_description">Bánffy Castle is a baroque building of the 18th
+        century in Cluj-Napoca, designed by the German architect Johann Eberhard Blaumann. Built
+        between 1774 and 1775 it is considered the most representative for the baroque style of
+        Transylvania.</string>
+    <string name="historical_banffy_address">Strada Iuliu Maniu 30, Cluj-Napoca 400000, Romania</string>
+    <string name="historical_mateicorvin">Matthias Corvinus Memorial House</string>
+    <string name="historical_mateicorvin_description">The Matthias Corvinus House is one of the
+        oldest buildings in Cluj-Napoca, Transylvania, Romania. It was built in the 15th century,
+        in the gothic style, as a small guesthouse. During its history, the house served as a jail,
+        hospital, and museum; it is now home to a visual arts institute.</string>
+    <string name="historical_mateicorvin_address">Strada Sextil Pușcariu 1, Cluj-Napoca 400111, Romania</string>
+    <string name="historical_museumsquare">The Museum Square</string>
+    <string name="historical_museumsquare_description">Museum Square is a charming, rustic,
+        history-filled part of Cluj and is even more worth a visit since it is a cobble stoned
+        pedestrian area. </string>
+    <string name="historical_museumsquare_address">Piata Muzeului, Cluj-Napoca 400019, Romania</string>
+    <string name="historical_tailorstower">Tailors\' Tower</string>
+    <string name="historical_tailorstower_description">The Cluj-Napoca Tailors\' Tower is located
+        at the southeast corner of the old Cluj-Napoca citadel. It was built in the 15th century
+        and rebuilt between 1627 and 1629, assuming its present form.</string>
+    <string name="historical_tailorstower_address">Strada Baba Novac 2, Cluj-Napoca 400097, Romania</string>
+    <string name="historical_theater">The National Theater</string>
+    <string name="historical_theater_description">The Lucian Blaga National Theatre in Cluj-Napoca,
+        Romania is one of the most prestigious theatrical institutions in Romania. The theatre
+        shares the same building with the Romanian Opera. </string>
+    <string name="historical_theater_address">Piata Stefan cel Mare, Nr. 24, Cluj-Napoca, Romania</string>
+</resources>
